@@ -1,0 +1,24 @@
+{
+  "poll" : {
+    "name" : "How would you prevent gun violence?",
+    "options" : [ {
+      "name" : "Stricter gun laws",
+      "votes" : 2
+    }, {
+      "name" : "Better mental healthcare",
+      "votes" : 12
+    }, {
+      "name" : "Universal background checks",
+      "votes" : 2
+    }, {
+      "name" : "Government gun buyback",
+      "votes" : 13
+    }, {
+      "name" : "All of these",
+      "votes" : 3
+    }, {
+      "name" : "None of these",
+      "votes" : 13
+    } ]
+  }
+}
