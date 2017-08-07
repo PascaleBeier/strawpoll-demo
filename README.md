@@ -6,21 +6,23 @@ Quick demo of a voting app.
 
 ### [DEMO](https://strawpoll-clone.firebaseapp.com/)
 
-## Build Setup
+### Build Setup
 
 ``` bash
 # install dependencies
 npm install
+```
 
-# create Firebase App
-import firebase-schema.json into the databse.
+### Firebase
+ - import firebase-schema.json into your firebase database
+ - save your credentials to firebase-config.js
 
-# Adjust Firebase Credentials
-save your credentials to firebase-config.js
-
+``` bash
 # serve with hot reload at localhost:8080
 npm run dev
+```
 
+``` bash
 # build for production with minification
 npm run build
 ```

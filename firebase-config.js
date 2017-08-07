@@ -1,8 +1,9 @@
 export const config = {
-        apiKey: '',
-        authDomain: '',
-        databaseURL: '',
-        storageBucket: ''
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: ""
 }
 
 export default config

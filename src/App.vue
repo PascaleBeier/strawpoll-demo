@@ -8,7 +8,7 @@
         <div class="panel-body">
           <form class="form-horizontal" method="post">
             <div v-for="(option, index) in poll.options" class="radio">
-              <label>
+              <label v-if="option.name">
                 <input v-show="!submitted" type="radio" name="id" :value="index" v-model="voted">
                 {{ option.name }} <span v-show="results">- {{ option.votes }} Votes</span>
               </label>
