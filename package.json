@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "firebase": "^4.2.0",
-    "vue": "^2.0.0-alpha.8"
+    "vue": "^2.4.2"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
